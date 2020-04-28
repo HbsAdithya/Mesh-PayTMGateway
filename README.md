@@ -2,10 +2,6 @@
 ===================
 Android simple e-commerce with PayTM payment gateway integrated.
 
-![Android Ecommerce PayTM integration](https://www.androidhive.info/wp-content/uploads/2019/02/android-e-commerce-app-paytm-integration.png)
-
-![Android Ecommerce PayTM integration](https://www.androidhive.info/wp-content/uploads/2019/02/android-e-commerce-app-paytm-demo.png)
-
 Backend REST API
 ===================
 This app uses the REST API built in Laravel to list down the products, manage orders and handling PayTM payment transactions.
