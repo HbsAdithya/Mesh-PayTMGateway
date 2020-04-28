@@ -5,7 +5,7 @@ Backend REST API
 ===================
 This app uses the REST API built in Laravel to list down the products, manage orders and handling PayTM payment transactions.
 
-Refer the [Laravel PayTM](https://github.com/ravi8x/Laravel-PayTM-Server) project to know the REST API used for this project.
+Refer the [Laravel PayTM](https://github.com/Laravel-PayTM-Server) project to know the REST API used for this project.
 
 Changing the REST endpoint
 ===================
