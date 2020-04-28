@@ -1,5 +1,4 @@
 # Mesh-PayTMGateway
-===================
 Android simple e-commerce with PayTM payment gateway integrated.
 
 Backend REST API
